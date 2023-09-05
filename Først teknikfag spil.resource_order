@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Player","order":1,"path":"folders/Player.yy",},
+    {"name":"Weapons","order":2,"path":"folders/Weapons.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"s_player_right","order":2,"path":"sprites/s_player_right/s_player_right.yy",},
+    {"name":"s_player_down","order":4,"path":"sprites/s_player_down/s_player_down.yy",},
+    {"name":"s_solid_wall","order":5,"path":"sprites/s_solid_wall/s_solid_wall.yy",},
+    {"name":"s_wall","order":3,"path":"sprites/s_wall/s_wall.yy",},
+    {"name":"s_player_left","order":1,"path":"sprites/s_player_left/s_player_left.yy",},
+    {"name":"s_player_up","order":3,"path":"sprites/s_player_up/s_player_up.yy",},
+    {"name":"o_solid_wall","order":6,"path":"objects/o_solid_wall/o_solid_wall.yy",},
+    {"name":"o_wall","order":4,"path":"objects/o_wall/o_wall.yy",},
+  ],
+}
