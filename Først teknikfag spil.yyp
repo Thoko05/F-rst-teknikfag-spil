@@ -24,6 +24,7 @@
   "resources": [
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
     {"id":{"name":"s_player_right","path":"sprites/s_player_right/s_player_right.yy",},},
+    {"id":{"name":"custom_functions","path":"scripts/custom_functions/custom_functions.yy",},},
     {"id":{"name":"s_player_down","path":"sprites/s_player_down/s_player_down.yy",},},
     {"id":{"name":"s_solid_wall","path":"sprites/s_solid_wall/s_solid_wall.yy",},},
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},},

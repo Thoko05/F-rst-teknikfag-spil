@@ -5,6 +5,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"s_player_right","order":2,"path":"sprites/s_player_right/s_player_right.yy",},
+    {"name":"custom_functions","order":7,"path":"scripts/custom_functions/custom_functions.yy",},
     {"name":"s_player_down","order":4,"path":"sprites/s_player_down/s_player_down.yy",},
     {"name":"s_solid_wall","order":5,"path":"sprites/s_solid_wall/s_solid_wall.yy",},
     {"name":"s_wall","order":3,"path":"sprites/s_wall/s_wall.yy",},
