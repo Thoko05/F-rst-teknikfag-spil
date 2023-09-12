@@ -40,7 +40,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"s_gun","path":"sprites/s_gun/s_gun.yy",},},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
-    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},},
+    {"id":{"name":"Sprite9_the_holy_sprite","path":"sprites/Sprite9_the_holy_sprite/Sprite9_the_holy_sprite.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

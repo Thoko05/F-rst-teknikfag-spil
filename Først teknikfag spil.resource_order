@@ -19,6 +19,6 @@
     {"name":"o_bullet","order":6,"path":"objects/o_bullet/o_bullet.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"o_wall","order":4,"path":"objects/o_wall/o_wall.yy",},
-    {"name":"Sprite9","order":10,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"Sprite9_the_holy_sprite","order":10,"path":"sprites/Sprite9_the_holy_sprite/Sprite9_the_holy_sprite.yy",},
   ],
 }
