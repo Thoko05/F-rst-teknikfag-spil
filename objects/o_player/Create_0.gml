@@ -21,3 +21,4 @@
 
 //weapon info
 	bullet_obj = o_bullet
+	weapon_length = sprite_get_bbox_right( s_gun ) - sprite_get_xoffset( s_gun );
