@@ -19,7 +19,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"o_player","path":"objects/o_player/o_player.yy",},},
@@ -29,7 +29,9 @@
     {"id":{"name":"s_wall","path":"sprites/s_wall/s_wall.yy",},},
     {"id":{"name":"s_player_left","path":"sprites/s_player_left/s_player_left.yy",},},
     {"id":{"name":"s_player_up","path":"sprites/s_player_up/s_player_up.yy",},},
+    {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},},
     {"id":{"name":"o_solid_wall","path":"objects/o_solid_wall/o_solid_wall.yy",},},
+    {"id":{"name":"o_bullet","path":"objects/o_bullet/o_bullet.yy",},},
     {"id":{"name":"s_gun","path":"sprites/s_gun/s_gun.yy",},},
     {"id":{"name":"o_wall","path":"objects/o_wall/o_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -37,6 +39,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

@@ -3,6 +3,7 @@ up_key = keyboard_check( ord( "W" ) );
 left_key = keyboard_check( ord( "A" ) );
 down_key = keyboard_check( ord( "S" ) );
 right_key = keyboard_check( ord( "D" ) );
+shoot_key = mouse_check_button( mb_left );
 
 //player movement
 #region
@@ -42,14 +43,15 @@ right_key = keyboard_check( ord( "D" ) );
 #endregion
 
 
-//player aiming
+//sprite control
+#region
+	//player aiming
 	center_y = y + center_y_offset;
 	
 	//aim
 	aim_dir = point_direction( x, center_y, mouse_x, mouse_y );
 
-//sprite control
-#region
+
 	//make sure the player is facing the correct direction
 	face = round( aim_dir/90 );
 	if face == 4 { face = 0; };
@@ -66,3 +68,16 @@ right_key = keyboard_check( ord( "D" ) );
 	
 #endregion
 
+//shoot the weapon
+if shoot_key
+{
+	
+	//create the bullet
+	var _bullet_inst = instance_create_depth( x, center_y, depth-100, bullet_obj  )
+
+	//change the bullet direction
+	with (_bullet_inst )
+	{
+		dir = other.aim_dir;	
+	}
+}

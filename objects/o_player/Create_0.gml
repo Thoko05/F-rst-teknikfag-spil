@@ -17,3 +17,7 @@
 	sprite[1] = s_player_up;
 	sprite[2] = s_player_left;
 	sprite[3] = s_player_down
+
+
+//weapon info
+	bullet_obj = o_bullet

@@ -10,7 +10,9 @@
     {"name":"s_wall","order":3,"path":"sprites/s_wall/s_wall.yy",},
     {"name":"s_player_left","order":1,"path":"sprites/s_player_left/s_player_left.yy",},
     {"name":"s_player_up","order":3,"path":"sprites/s_player_up/s_player_up.yy",},
+    {"name":"s_bullet","order":5,"path":"sprites/s_bullet/s_bullet.yy",},
     {"name":"o_solid_wall","order":6,"path":"objects/o_solid_wall/o_solid_wall.yy",},
+    {"name":"o_bullet","order":6,"path":"objects/o_bullet/o_bullet.yy",},
     {"name":"o_wall","order":4,"path":"objects/o_wall/o_wall.yy",},
   ],
 }
